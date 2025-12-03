@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:
+
 
 <br><br>
 I’m a **Computer Science (AI & ML) undergraduate** at **Chitkara University** focused on building **real-world systems** using AI, backend development, and automation tools. ⚙️🤖  
@@ -7,41 +7,31 @@ I’m a **Computer Science (AI & ML) undergraduate** at **Chitkara University** 
 <br><br>
 I work at the intersection of **software engineering & applied machine learning** — not just training models, but **deploying them inside real applications that solve problems**.  
 I’ve built **AI agents**, **emotion-recognition systems**, and **API-driven web platforms** with production-focused architecture. 🚀  
-
 <br><br>
 
 ## 🛠 Technical Skills  
-
 <br>
-
 ### 💻 Programming & Development  
 - Java, Python, C++  
 - MERN Stack (MongoDB, Express.js, React, Node.js)  
 - Data Structures & Algorithms (DSA)  
-
 <br>
 
 ### 🤖 AI / Data Science  
 - Pandas, NumPy, TensorFlow  
 - RAG, Embeddings, Basic CNNs  
 - Data Visualization & Power BI  
-
 <br>
 
 ### 🧰 Tools  
 - Git, Linux, VS Code, Jupyter Notebook  
 - Excel, Prompt Engineering, API Integration  
-
 <br><br>
 
 ## 🏆 Achievements  
-
 - 📜 **Patent Filed**: *Biomechanically Adaptive Midsole*  
 - 🍄 **IoT-based Mushroom Cultivation Automation System** (Monitoring + Control System)  
-
 <br><br><br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shxbhjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhjain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhjain211@gmail.ccom) 
 
