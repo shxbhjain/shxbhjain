@@ -1,5 +1,45 @@
 # 💫 About Me:
-<br><br>I'm a Computer Science (AI & ML) undergraduate at **Chitkara University** focused on building real-world systems using AI, backend development, and automation tools.<br><br>I work at the intersection of **software engineering and applied machine learning** — not just model training, but putting models inside real applications that solve problems. I’ve built AI agents, emotion-recognition systems, and API-driven web platforms with production-focused architecture.<br><br> Technical Skills<br><br>**Programming & Development**<br>- Java, Python, C++<br>- MERN Stack (MongoDB, Express.js, React, Node.js)<br>- Data Structures & Algorithms (DSA)<br><br>**AI / Data Science**<br>- Pandas, NumPy,  TensorFlow<br>- RAG, Embeddings, Basic CNNs<br>- Data Visualization & Power BI<br><br>**Tools**<br>- Git, Linux, VS Code, Jupyter Notebook<br>- Excel, Prompt Engineering, API Integration<br><br><br><br> Achievements<br>- Patent filed: *Biomechanically Adaptive Midsole*<br>- Built IoT-based mushroom cultivation automation system<br><br><br><br><br>
+# 💫 About Me:
+
+<br><br>
+I’m a **Computer Science (AI & ML) undergraduate** at **Chitkara University** focused on building **real-world systems** using AI, backend development, and automation tools. ⚙️🤖  
+
+<br><br>
+I work at the intersection of **software engineering & applied machine learning** — not just training models, but **deploying them inside real applications that solve problems**.  
+I’ve built **AI agents**, **emotion-recognition systems**, and **API-driven web platforms** with production-focused architecture. 🚀  
+
+<br><br>
+
+## 🛠 Technical Skills  
+
+<br>
+
+### 💻 Programming & Development  
+- Java, Python, C++  
+- MERN Stack (MongoDB, Express.js, React, Node.js)  
+- Data Structures & Algorithms (DSA)  
+
+<br>
+
+### 🤖 AI / Data Science  
+- Pandas, NumPy, TensorFlow  
+- RAG, Embeddings, Basic CNNs  
+- Data Visualization & Power BI  
+
+<br>
+
+### 🧰 Tools  
+- Git, Linux, VS Code, Jupyter Notebook  
+- Excel, Prompt Engineering, API Integration  
+
+<br><br>
+
+## 🏆 Achievements  
+
+- 📜 **Patent Filed**: *Biomechanically Adaptive Midsole*  
+- 🍄 **IoT-based Mushroom Cultivation Automation System** (Monitoring + Control System)  
+
+<br><br><br>
 
 
 ## 🌐 Socials:
