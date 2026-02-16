@@ -9,7 +9,7 @@ I work at the intersection of **software engineering & applied machine learning*
 I’ve built **AI agents**, **emotion-recognition systems**, and **API-driven web platforms** with production-focused architecture. 🚀  
 <br><br>
 
-## 🛠 Technical Skills  
+ 🛠 Technical Skills  
 <br>
 ### 💻 Programming & Development  
 - Java, Python, C++  
