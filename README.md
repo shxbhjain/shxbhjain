@@ -119,16 +119,6 @@ Developed an IoT-based monitoring system for collecting and analysing environmen
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shxbhjain\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=shxbhjain\&theme=dark\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shxbhjain\&theme=dark\&hide_border=true\&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/shubhjain)
