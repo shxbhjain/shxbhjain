@@ -19,7 +19,7 @@ Alongside analytics, I've worked on **AI, RAG, and IoT systems**, giving me expe
 
 ### 💻 Programming & Development
 
-* Java, Python, C++
+* Java, Python, C++, React
 * REST APIs, JSON
 * MongoDB, Firebase
 
